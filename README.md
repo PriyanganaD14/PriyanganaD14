@@ -4,7 +4,7 @@
 
 - 🎓 **I'm persuing B.E in Information & Technology**
 
-- ✌  **Javascript Enthusiast**
+- ✌  **React Enthusiast**
 
 - 💻 **Rookie Web Developer**
 
