@@ -2,7 +2,7 @@
 
 ## Wanna know something about me ? let's see
 
-- 🎓 **I'm persuing B.E in Information & Technology**
+- 🎓 **I'm a Software Enginner at Optum**
 
 - ✌   **React Enthusiast**
 
